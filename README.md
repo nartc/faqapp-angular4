@@ -1,6 +1,7 @@
 # FaqApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
+Run `npm install` on the root folder to install all the dependencies.
 
 ## Development server
 
